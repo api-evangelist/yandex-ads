@@ -64,23 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Yandex Ads is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Yandex Ads provides advertising solutions through Yandex, the leading Russian internet company. Their platform enables advertisers to reach audiences across Yandex Search, Yandex Display Network, and partner sites. The service offers targeting options, performance analytics, and integration via RESTful APIs for campaign management, reporting, and budgeting. Yandex Ads supports various ad formats, including text, image, video, and dynamic ads, catering to businesses of all sizes seeking to maximize online visibility and conversion rates.
 
-**Areas:** Company
+**Areas:** Advertising · App Monetization · Web Analytics · User Acquisition · DSP · SSP
 
 ## Yandex Ads on APIs.io
 
 Everything profiled for Yandex Ads is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/yandex-ads/](https://apis.io/providers/yandex-ads/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Yandex Ads API](https://apis.io/apis/yandex-ads/yandex-ads-api/) — Yandex Ads developer documentation
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Yandex Ads Domain Security](https://apis.io/security/yandex-ads/yandex-ads-domain-security/)
+- [Yandex Ads Vulnerability Disclosure](https://apis.io/security/yandex-ads/yandex-ads-vulnerability-disclosure/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://ads.yandex.com/)
+- [Support](https://ads.yandex.com/help/bundle-id)
+- [Security](https://ya.cc/t/1cSZixjB3gkSva)
+- [Privacy policy](https://yandex.com/company/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/yandex-ads/](https://apis.io/providers/yandex-ads/).
+**Kin Score 11.8** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 15.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/yandex-ads/](https://apis.io/providers/yandex-ads/).
 
 ## How this profile is made
 
